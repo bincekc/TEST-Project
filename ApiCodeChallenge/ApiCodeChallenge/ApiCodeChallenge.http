@@ -1,0 +1,6 @@
+@ApiCodeChallenge_HostAddress = http://localhost:5200
+
+GET {{ApiCodeChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
